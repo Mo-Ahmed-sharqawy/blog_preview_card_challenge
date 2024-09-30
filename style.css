@@ -16,19 +16,19 @@ body {
 
 .contanier {
     background-color: white;
-    width: 340px;
+    width: 360px;
     padding: 20px;
     border: 2px solid black;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    gap: 15px;
+    gap: 20px;
     box-shadow: 5px 5px 0px black;
 }
 
 .contanier > img {
-    width: 300px;
+    width: 320px;
     border-radius: 10px;
 }
 
@@ -49,7 +49,6 @@ body {
 .contanier h1 {
     font-size: 20px;
     font-weight: 800;
-    margin: 5px 0px;
     cursor: pointer;
 }
 
@@ -77,5 +76,3 @@ body {
     font-size: 14px;
     font-weight: 800;
 }
-
-
